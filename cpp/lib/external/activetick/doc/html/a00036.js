@@ -1,0 +1,27 @@
+var a00036 =
+[
+    [ "ATTickHistoryDBResponseParser", "a00036.html#a10d2721ef1764801bac1e754c69c750e", null ],
+    [ "~ATTickHistoryDBResponseParser", "a00036.html#a3690b7d46037a000be1aec0951d79669", null ],
+    [ "GetNextOffset", "a00036.html#a5c96ae1368f6423ac01d31a61ff97db5", null ],
+    [ "GetOffsetDbDate", "a00036.html#a158ccd47b2ebeac2c0d66ffe795f8aa7", null ],
+    [ "GetQuoteAskExchange", "a00036.html#a8b444a8f7d3b98b34df46aaca0621777", null ],
+    [ "GetQuoteAskPrice", "a00036.html#a96d613b8ba058a0334ba051b2a0b8f6b", null ],
+    [ "GetQuoteAskSize", "a00036.html#a7b7a3ff16505446b04a9ff91c877b3eb", null ],
+    [ "GetQuoteBidExchange", "a00036.html#ab01cdea1eac9b2c271e2f6f22db500bd", null ],
+    [ "GetQuoteBidPrice", "a00036.html#a3fbbdd0a465dffc006cdecea6549fb4a", null ],
+    [ "GetQuoteBidSize", "a00036.html#ac8b2a32ca78953a2c65f68c8baba94ff", null ],
+    [ "GetQuoteCondition", "a00036.html#a6cd40663a09d9342775ab4bb08fa67d2", null ],
+    [ "GetRecordCount", "a00036.html#a94303259f30ff16e21029e3c5b9aa5f9", null ],
+    [ "GetRecordDateTime", "a00036.html#a6e9e605b66007d46ac6c4f3cbea5a0a5", null ],
+    [ "GetRecordType", "a00036.html#a7ee7d4557c3e2060efa29a55af66c5a6", null ],
+    [ "GetSymbol", "a00036.html#a541a06e7269e8f2ed40817f676bc79bb", null ],
+    [ "GetSymbolStatus", "a00036.html#a9d5878ef69d2fcce06dcc9c75618a058", null ],
+    [ "GetTradeCondition", "a00036.html#a168bb840efa14f9f6796a4235a282e08", null ],
+    [ "GetTradeConditions", "a00036.html#a49a21765647796cb0bb4e0a83601273b", null ],
+    [ "GetTradeLastExchange", "a00036.html#a8a48db6633e0bd008308affb195ddb4a", null ],
+    [ "GetTradeLastPrice", "a00036.html#a0ec3a15b4da44abb5a3d549c1ecea6b0", null ],
+    [ "GetTradeLastSize", "a00036.html#ac4604fe044392ee16770fc33ccd2e7a8", null ],
+    [ "IsValid", "a00036.html#a2dec61951036e8331670a4c72a9f4eeb", null ],
+    [ "MoveToFirstRecord", "a00036.html#aec70441aaf1c6fc7e3975fa7e08c7821", null ],
+    [ "MoveToNextRecord", "a00036.html#a8056e1128632a3e16da6d1c31d6a68fe", null ]
+];

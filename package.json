@@ -1,0 +1,27 @@
+{
+    "name": "financialcpp",
+    "version": "0.0.1",
+    "description": "High performance financial market library written in c++",
+    "dependencies": {
+        "apollo-server": "^2.17.0",
+        "bindings": "^1.5.0",
+        "cmake-js": "^6.1.0",
+        "graphql": "^15.3.0",
+        "nan": "^2.14.1"
+    },
+    "scripts": {
+        "build": "cmake-js compile --debug",
+        "build:dist": "cmake-js compile",
+        "test": "mocha --recursive \"./js/test/*.js\""
+    },
+    "main": "js/index.js",
+    "files": [
+        "js/*",
+        "cpp/*",
+        "build/Release/financialcpp.node"
+    ],
+    "devDependencies": {
+        "mocha": "^8.1.3",
+        "node-addon-api": "^3.0.2"
+    }
+}

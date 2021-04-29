@@ -1,0 +1,15 @@
+what do the programs need to do?
+
+Program 1 - C++ download data from ActiveTick
+
+1. download data from previous days
+2. Invent a file structure that makes sense to store the data files
+3. Have data from last 2 months (should be good enough for now to backtest)
+
+Program 2 - Python backtester
+
+1. import data into pandas dataframes
+2. build appropriate features in the dataframe
+3. filter the features and try new stuff
+4. make sure it's easy to manipulate things
+5. don't hardcode values, make sure variables are easy to change

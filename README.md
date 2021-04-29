@@ -1,2 +1,0 @@
-# financialcpp
-https://financialcpp.com

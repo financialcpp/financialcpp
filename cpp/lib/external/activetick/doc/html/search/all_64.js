@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['data1',['Data1',['../a00004.html#a86517b3f79f18042723f0caf9bff76b9',1,'_ATGUID']]],
+  ['data2',['Data2',['../a00004.html#abdb297e85164151291ba2adcc62f67ba',1,'_ATGUID']]],
+  ['data3',['Data3',['../a00004.html#a5cd33bcdbf26fcdb66e4d859749527d6',1,'_ATGUID']]],
+  ['data4',['Data4',['../a00004.html#a07397636116b28bf5182d43e4cb577b0',1,'_ATGUID']]],
+  ['databyte',['DataByte',['../a00044.html#a1c4f9683672b2fdae1cda00f5a9b95cdaaebbf0d4bd3a0d8bea916ab6e87fd74e',1,'ATServerAPIDefines.h']]],
+  ['databytearray',['DataByteArray',['../a00044.html#a1c4f9683672b2fdae1cda00f5a9b95cda641a980ded679971046b5721e7dd576f',1,'ATServerAPIDefines.h']]],
+  ['datadatetime',['DataDateTime',['../a00044.html#a1c4f9683672b2fdae1cda00f5a9b95cda88968da23410ccb3d29004802fd4c771',1,'ATServerAPIDefines.h']]],
+  ['datadouble',['DataDouble',['../a00044.html#a1c4f9683672b2fdae1cda00f5a9b95cda6e3a5b8477fbcecbbfc303d377bc41da',1,'ATServerAPIDefines.h']]],
+  ['datainteger32',['DataInteger32',['../a00044.html#a1c4f9683672b2fdae1cda00f5a9b95cda76911fd3f24654dec0f504149df11f0e',1,'ATServerAPIDefines.h']]],
+  ['datainteger64',['DataInteger64',['../a00044.html#a1c4f9683672b2fdae1cda00f5a9b95cda3dc1c87a08135ea5c91a4153f8d94123',1,'ATServerAPIDefines.h']]],
+  ['dataitemcount',['dataItemCount',['../a00015.html#aeb422a8bc1d718653e92d202df53cbc5',1,'_ATQUOTEDB_RESPONSE::dataItemCount()'],['../a00019.html#aff5fbf3fea8039b3a9a1cb1eb62c3ed3',1,'_ATQUOTESTREAM_RESPONSE::dataItemCount()']]],
+  ['dataprice',['DataPrice',['../a00044.html#a1c4f9683672b2fdae1cda00f5a9b95cda0455fd2d088ca079bbfe2983eeaca1c8',1,'ATServerAPIDefines.h']]],
+  ['datastring',['DataString',['../a00044.html#a1c4f9683672b2fdae1cda00f5a9b95cdafb45ba14a958bbd0dd56a8ab2d20e635',1,'ATServerAPIDefines.h']]],
+  ['datatype',['dataType',['../a00014.html#ad42f0b77010d041fad74974f6a1dd872',1,'_ATQUOTEDB_DATA_ITEM']]],
+  ['datauinteger32',['DataUInteger32',['../a00044.html#a1c4f9683672b2fdae1cda00f5a9b95cdaa9d7f088a343fe63d9d1011f04f959ff',1,'ATServerAPIDefines.h']]],
+  ['datauinteger64',['DataUInteger64',['../a00044.html#a1c4f9683672b2fdae1cda00f5a9b95cda095c0c0815b97031c39037ec3b5d6acd',1,'ATServerAPIDefines.h']]],
+  ['dataunicodestring',['DataUnicodeString',['../a00044.html#a1c4f9683672b2fdae1cda00f5a9b95cdaf7f745801924290fa5b53c36907867cb',1,'ATServerAPIDefines.h']]],
+  ['day',['day',['../a00029.html#aff23000fd4bd8587b1988fac919101cb',1,'_ATTIME::day()'],['../a00012.html#a9748f585779129817ad3f18dad724920',1,'_ATOPTION_SYMBOL::day()']]],
+  ['dayofweek',['dayOfWeek',['../a00029.html#ab46c78699f285bbf3fede771d2f99950',1,'_ATTIME']]],
+  ['default_5frequest_5ftimeout',['DEFAULT_REQUEST_TIMEOUT',['../a00037.html#ab851827d564b0c73360a88753a134c0a',1,'ActiveTickServerAPI.h']]]
+];
